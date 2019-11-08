@@ -80,6 +80,10 @@
 </ul>
 <p style="text-align: left;"></p>
 
+<h2 style="direction: ltr;">what i have learned</h2>
+<p style="direction: ltr;">manipulating data is one of the major and key features you should have as a manager in your skills</p>
+<p style="text-align: left;"></p>
+
 </div>
 </div>
 </div>
