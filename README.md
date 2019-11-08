@@ -84,6 +84,10 @@
 <p style="direction: ltr;">manipulating data is one of the major and key features you should have as a manager in your skills</p>
 <p style="text-align: left;"></p>
 
+<h2 style="direction: ltr;">what i am going to do with what i have learned</h2>
+<p style="direction: ltr;">having such a powerful data analysis base i am planing to take more courses in the programming for data analysis field to increase the opportunities to have a full time job just manipulating data</p>
+
+
 </div>
 </div>
 </div>
