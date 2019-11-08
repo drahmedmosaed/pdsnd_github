@@ -27,7 +27,7 @@ def get_filters():
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while True:
       city = input(
-          "Kindly choose a city to filter by? New York City, Chicago or Washington?\n")
+          "Kindly choose a city to filter by? New York , Chicago or Washington?\n")
       if city.lower() not in Cities:
         print("you didn't choose a listed city.")
         continue
@@ -122,7 +122,7 @@ def station_stats(df):
 
     # TO DO: display most frequent combination of start station and end station trip
     Most_com_comb = df[['Start Station', 'End Station']].mode().loc[0]
-    print("Most frequent combination of start station and end station trip: Start: ({}) End: ({})".format(Most_com_comb[0], Most_com_comb[1]))
+    print("Most frequent trip: Start: ({}) End: ({})".format(Most_com_comb[0], Most_com_comb[1]))
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-' * 40)
